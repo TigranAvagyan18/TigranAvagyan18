@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tigranavagyan18&a=1" alt="tigranavagyan18" /></a> </p>
 
-- 🔭 I’m currently working on **Heyjob**
+- 🔭 I’m currently unemployed 😥
 
 - 💬 Ask me about **React/Node/JS**
 
