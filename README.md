@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently unemployed 😥
 
-- 💬 Ask me about **React/Node/JS**
+- 💬 Ask me anything about **React/Node/JS**
 
 - 📫 How to reach me **tigranav18@gmail.com**
 
